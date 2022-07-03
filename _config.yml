@@ -40,7 +40,7 @@ googlescholar_username: 3j3fELQAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   My name is Amit Jain and I am a PhD student in Aerospace Engineering at Penn State.
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
