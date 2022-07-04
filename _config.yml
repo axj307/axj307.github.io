@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Amit Jain
-title: PhD Candidate
+title: Aerospace Engineer
 #email: Your email (optional)
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -42,7 +42,7 @@ googlescholar_username: 3j3fELQAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  My name is Amit Jain and I am a PhD student in Aerospace Engineering at Penn State.
+    I am a PhD Candidate in the [Aerospace Engineering](https://www.aero.psu.edu) department at [The Pennsylvania State University](https://www.psu.edu). I am working with [Prof. Puneet Singla](https://www.aero.psu.edu/department/directory-detail-g.aspx?q=pxs433) at [CASS lab](https://cass.psu.edu). 
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
